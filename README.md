@@ -33,7 +33,7 @@ This project is a Django-based Railway Management System. It allows users to:
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KaushikReddy-KR/irctc-api.git
    cd railway-irctc
    ```
 
